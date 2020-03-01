@@ -1,4 +1,4 @@
-# DV1614_Assignment-1_Yatzi
+# DV1614_Assignment-1_Yatzy
 
 Assignment 1: Yatzy!
 Scope: 1hp

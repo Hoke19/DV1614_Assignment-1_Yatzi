@@ -10,6 +10,7 @@ Estimated preparation time: 15 hours (Lectures, labs, exercises, reading)
 Estimated implementation time: 10 hours 
 
 Description
+
 Yatzy is a popular dice game that can be played either alone or with friends. The game is played over 15 turns, each with different rules, or categories, for scoring. Each turn is played in the same way, starting with the first player rolling the five available dice. The player then chose any number of dice to keep in such a way that they maximize their chance for a high score given this turns scoring rules, and re-roll the rest. This process is repeated once for up to a total of three rolls and two keeps. Once the player either keep all the dice or has rolled three times their score for this turn is noted down on the score pad and the next player play their turn. Should the player fail to fulfill the combination of dice needed for the current category, a score of 0 is achieved for that category. When all players have played the turn, the first player starts the next turn. This is done until all turns has been played, after which each players' total score is calculated. The player with the highest total score win.
 
 Categories
